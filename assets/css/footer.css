@@ -1,0 +1,19 @@
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.child{
+    margin: 40px;
+}
+.child a img{
+    margin: 10px;
+    width: 50px;
+    object-fit: cover;
+}
